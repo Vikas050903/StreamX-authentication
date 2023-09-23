@@ -1,5 +1,5 @@
 body {
-  background-color: #fafafa;
+  background-color: black;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -9,8 +9,8 @@ body {
 }
 
 .box {
-  border: 1px solid #dfdfdf;
-  background-color: #fff;
+  border: 1px solid #6d479f;
+  background-color: #6d479f;
 }
 
 .g-btn {
